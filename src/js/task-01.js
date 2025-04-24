@@ -8,3 +8,4 @@ const categoryItem = numberOfCategory.forEach(item => {
     console.log("Elements:", counter);
 });
 
+
